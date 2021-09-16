@@ -1,0 +1,5 @@
+pytube==11.0.1
+pydub==0.25.1
+textract==1.6.4
+scipy==1.7.1
+deepspeech==0.9.3
